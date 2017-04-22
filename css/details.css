@@ -1,0 +1,9 @@
+﻿#up A:link{text-decoration:none;color:#60F;}
+#up A:visited{text-decoration:none;color:#60F;}
+#up A:active{text-decoration:none;color:#60F;}
+#up A:hover{text-decoration:none;color:red;}
+
+#down A:link{text-decoration:none;color:#60F;}
+#down A:visited{text-decoration:none;color:#60F;}
+#down A:active{text-decoration:none;color:#60F;}
+#down A:hover{text-decoration:none;color:red;}

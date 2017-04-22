@@ -1,0 +1,27 @@
+﻿body {
+	margin-left: 0px;
+	margin-top: 0px;
+	text-align:center;
+	background-image: url(/images/back.jpg);
+	background-repeat: repeat-x;
+}
+#navigate A:link{text-decoration:none;color:White;}
+#navigate A:visited{text-decoration:none;color:White;}
+#navigate A:active{text-decoration:none;color:White;}
+#navigate A:hover{text-decoration:none;color:White;}
+
+A:link{text-decoration:none;color:#60F;}
+A:visited{text-decoration:none;color:#60F;}
+A:active{text-decoration:none;color:#60F;}
+A:hover{text-decoration:none;color:red;}
+
+#head A:link{text-decoration:none;color:White;}
+#head A:visited{text-decoration:none;color:White;}
+#head A:active{text-decoration:none;color:White;}
+#head A:hover{text-decoration:none;color:White;}
+
+.text{
+	font-size:14px;
+	font-weight:bolder;
+	color:white;
+}
